@@ -4,7 +4,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        Basicprogram bs= new Basicprogram();
+        //Basicprogram bs= new Basicprogram();
         //bs.assign1();
         //bs.assign2();
         //bs.assign3();
@@ -27,6 +27,10 @@ internal class Program
         //bs.assign18();
         //bs.assign19();
         //bs.assign20();
-        bs.assign21();
+       // bs.assign21();
+       Decision_makingProgram ds=new Decision_makingProgram();
+        //ds.program1();
+        //ds.program2();
+        ds.program3();
     }
 }
